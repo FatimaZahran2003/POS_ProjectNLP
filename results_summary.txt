@@ -1,0 +1,22 @@
+============================================================
+POS TAGGING PROJECT - FINAL RESULTS
+============================================================
+
+DATASET STATISTICS:
+  Train sentences: 37,839
+  Dev sentences: 1,992
+  Vocabulary size: 43,359
+  Number of tags: 45
+  Max sentence length: 141
+
+MODEL PERFORMANCE (Dev Set):
+  BiLSTM Accuracy: 0.9669
+  BiLSTM Macro F1: 0.8815
+
+BASELINE PERFORMANCE (Dev Set):
+  Baseline Accuracy: 0.9141
+  Baseline Macro F1: 0.8050
+
+IMPROVEMENT:
+  Accuracy Improvement: 5.27%
+  Macro F1 Improvement: 7.65%
